@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\HienNV59\\Desktop\\NET learn\\net05-course\\exercise_2\\exercise_2.csproj",
+      "projectUniqueName": "C:\\Users\\HienNV59\\Desktop\\NET learn\\05net-Course\\net05-course\\exercise_2\\exercise_2.csproj",
       "projectName": "exercise_2",
-      "projectPath": "C:\\Users\\HienNV59\\Desktop\\NET learn\\net05-course\\exercise_2\\exercise_2.csproj",
+      "projectPath": "C:\\Users\\HienNV59\\Desktop\\NET learn\\05net-Course\\net05-course\\exercise_2\\exercise_2.csproj",
       "packagesPath": "C:\\Users\\HienNV59\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\HienNV59\\Desktop\\NET learn\\net05-course\\exercise_2\\obj\\",
+      "outputPath": "C:\\Users\\HienNV59\\Desktop\\NET learn\\05net-Course\\net05-course\\exercise_2\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\HienNV59\\AppData\\Roaming\\NuGet\\NuGet.Config",
