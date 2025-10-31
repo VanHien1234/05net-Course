@@ -29,7 +29,7 @@ while (true)
             Exercise1.Run();
             break;
         case 2:
-            // Exercise02.Run();
+            Exercise2.Run();
             break;
         default:
             Console.WriteLine("retry!");
